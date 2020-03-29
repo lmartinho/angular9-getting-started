@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-quick-start-4051f": {
+      "hosting": {
+        "angular9-getting-started": [
+          "angular-quick-start-4051f"
+        ]
+      }
+    }
+  }
+}

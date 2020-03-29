@@ -1,0 +1,19 @@
+{
+  "hosting": [
+    {
+      "target": "angular9-getting-started",
+      "public": "dist/angular9-getting-started",
+      "ignore": [
+        "firebase.json",
+        "**/.*",
+        "**/node_modules/**"
+      ],
+      "rewrites": [
+        {
+          "source": "**",
+          "destination": "/index.html"
+        }
+      ]
+    }
+  ]
+}
